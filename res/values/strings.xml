@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE configuration>
+<!-- 
+ Copyright (c) 2014 Tomàs Ortega
+ 
+ Licensed under the GPL License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+       http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name" tools:ignore="MissingTranslation">MAT</string>
+    <string name="action_settings" tools:ignore="MissingTranslation">Settings</string>
+    <string name="Tipusequacio" tools:ignore="MissingTranslation">The equation is of the type ax²+bx+c=0</string>
+    <string name="atext" tools:ignore="MissingTranslation">a=</string>
+    <string name="btext" tools:ignore="MissingTranslation">b=</string>
+    <string name="ctext" tools:ignore="MissingTranslation">c=</string>
+    <string name="resol" tools:ignore="MissingTranslation">Solve</string>
+    <string name="ed2g" tools:ignore="MissingTranslation">Second Degree Equation</string>
+    <string name="introdueixi_la_dimensi_de_la_matriu" tools:ignore="MissingTranslation">Enter the matrix\'s dimension</string>
+    <string name="ok" tools:ignore="MissingTranslation">OK</string>
+    <string name="determinants" tools:ignore="MissingTranslation">Determinants</string>
+    <string name="introdueixi_el_grau_del_polinomi" tools:ignore="MissingTranslation">Enter the polynomial\'s degree</string>
+    <string name="newton" tools:ignore="MissingTranslation">Roots of Polynomials</string>
+    <string name="a" tools:ignore="MissingTranslation">A</string>
+    <string name="_" tools:ignore="MissingTranslation">α</string>
+    <string name="b" tools:ignore="MissingTranslation">B</string>
+    <string name="c" tools:ignore="MissingTranslation">C</string>
+    <string name="_b" tools:ignore="MissingTranslation">β</string>
+    <string name="_c" tools:ignore="MissingTranslation">γ</string>
+    <string name="buidar_tot" tools:ignore="MissingTranslation">Clear all</string>
+    <string name="triangles" tools:ignore="MissingTranslation">Triangle Solving</string>
+    <string name="estad_stica" tools:ignore="MissingTranslation">Statistics</string>
+    <string name="sistemes" tools:ignore="MissingTranslation">System of Equations</string>
+    <string name="introdueix_la_dimensi_de_la_matriu" tools:ignore="MissingTranslation">Enter the system\'s dimension</string>
+    <string name="introdueix_la_mida_de_la_mostra_de_l_estudi" tools:ignore="MissingTranslation">Enter the size of the sample</string>
+    <string name="introdueix_les_mostres_" tools:ignore="MissingTranslation">Enter the data :</string>
+    <string name="afegeix" tools:ignore="MissingTranslation">Add</string>
+    <string name="elimina" tools:ignore="MissingTranslation">Delete</string>
+    <string name="una_mostra" tools:ignore="MissingTranslation"> a number</string>
+    <string name="idioma" tools:ignore="MissingTranslation"> Language</string>
+    <string name="cancela" tools:ignore="MissingTranslation"> Cancel</string>
+    <string name="nox" tools:ignore="MissingTranslation">No unknowns</string>
+    <string name="norealx" tools:ignore="MissingTranslation">No real solutions</string>
+    <string name="nombrenovalid" tools:ignore="MissingTranslation">Incorrect data</string>
+    <string name="solsis" tools:ignore="MissingTranslation">The system\'s solutions are :</string>
+    <string name="sistemaincompatible" tools:ignore="MissingTranslation">There\'s no unique solution</string>
+    <string name="introdueixmostra" tools:ignore="MissingTranslation">Enter number</string>
+    <string name="mitjanadospunts" tools:ignore="MissingTranslation">Mean :</string>
+    <string name="dtdospunts" tools:ignore="MissingTranslation">Standard deviation :</string>
+    <string name="medianadospunts" tools:ignore="MissingTranslation">Median :</string>
+    <string name="mmdttitol" tools:ignore="MissingTranslation">The mean, the standard deviation and the median are :</string>
+    <string name="uncostatnopotserzero" tools:ignore="MissingTranslation">A side can\'t be 0!</string>
+    <string name="untrianglenopottenir" tools:ignore="MissingTranslation">A triangle can\'t have these three sides</string>
+    <string name="unanglenopotserzero" tools:ignore="MissingTranslation">An angle can\'t be 0!</string>
+    <string name="elsanglessumen" tools:ignore="MissingTranslation">Angles can\'t add more than 180 degrees!</string>
+    <string name="faltainfo" tools:ignore="MissingTranslation">More information needed</string>
+    <string name="elsanglessumenmenys" tools:ignore="MissingTranslation">Angles add less than 180 degrees!</string>
+    <string name="totselstriangles" tools:ignore="MissingTranslation">All triangles with the given angles are multiples of this one</string>
+    <string name="atencioaquesttriangle" tools:ignore="MissingTranslation">Hey! This triangle has 2 solutions</string>
+    <string name="soluciodos" tools:ignore="MissingTranslation">Solution 2</string>
+    <string name="aquesttrianglenotesolucio" tools:ignore="MissingTranslation">This triangle can\'t be solved</string>
+    <string name="introdueixelcoeficient" tools:ignore="MissingTranslation">Enter the coefficient of x</string>
+    <string name="introdueixpuntdinici" tools:ignore="MissingTranslation">Enter a starting point</string>
+    <string name="noshantrobat" tools:ignore="MissingTranslation">No solutions found, try another starting point</string>
+    <string name="larreltrobada" tools:ignore="MissingTranslation">The root that has been found is :</string>
+    <string name="eldeterminantdelamatriues" tools:ignore="MissingTranslation">The matrix\'s determinant is :</string>
+    <string name="withanumberthisbig" tools:ignore="MissingTranslation">With a number this big MAT might slow down or crash. Continue?</string>
+
+</resources>
+

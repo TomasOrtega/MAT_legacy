@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE configuration>
+<!-- 
+ Copyright (c) 2014 Tomàs Ortega
+ 
+ Licensed under the GPL License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+       http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ -->
+<resources>
+
+    <string name="app_name">MAT</string>
+    <string name="action_settings">Preferències</string>
+    <string name="Tipusequacio">L\'equació ha de ser del tipus ax²+bx+c=0</string>
+    <string name="atext">a=</string>
+    <string name="btext">b=</string>
+    <string name="ctext">c=</string>
+    <string name="resol">Resol</string>
+    <string name="ed2g">Equació de Segon Grau</string>
+    <string name="introdueixi_la_dimensi_de_la_matriu">Introdueixi la dimensió de la matriu</string>
+    <string name="ok">OK</string>
+    <string name="determinants">Determinants</string>
+    <string name="introdueixi_el_grau_del_polinomi">Introdueixi el grau del polinomi</string>
+    <string name="newton">Arrels de Polinomis</string>
+    <string name="a">A</string>
+    <string name="_">α</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="_b">β</string>
+    <string name="_c">γ</string>
+    <string name="buidar_tot">Buidar tot</string>
+    <string name="triangles">Resolució de Triangles</string>
+    <string name="estad_stica">Estadística</string>
+    <string name="sistemes">Sistemes d\'Equacions</string>
+    <string name="introdueix_la_dimensi_de_la_matriu">Introdueix la dimensió del sistema</string>
+    <string name="introdueix_la_mida_de_la_mostra_de_l_estudi">Introdueix la mida de la mostra de l\'estudi</string>
+    <string name="introdueix_les_mostres_">Introdueix la mostra:</string>
+    <string name="afegeix">Afegeix</string>
+    <string name="elimina">Elimina</string>
+    <string name="una_mostra">un valor</string>
+    <string name="idioma">Idioma</string>
+    <string name="cancela">Cancel·la</string>
+    <string name="nox">No hi ha incògnites</string>
+    <string name="norealx">No hi ha solucions reals</string>
+    <string name="nombrenovalid">Dades incorrectes</string>
+    <string name="solsis">Les solucions del sistema són:</string>
+    <string name="sistemaincompatible">No hi ha solució única</string>
+    <string name="introdueixmostra">Introdueix valor</string>
+    <string name="mitjanadospunts">Mitjana: </string>
+    <string name="dtdospunts">Desviació Típica: </string>
+    <string name="medianadospunts">Mediana: </string>
+    <string name="mmdttitol">La mitjana, la desviació típica i la mediana són:</string>
+    <string name="uncostatnopotserzero">Un costat no pot ser 0!</string>
+    <string name="untrianglenopottenir">Un triangle no pot tenir aquests tres costats</string>
+    <string name="unanglenopotserzero">Un angle no pot ser 0!</string>
+    <string name="elsanglessumen">Els angles sumen més de 180 graus!</string>
+    <string name="faltainfo">Falta informació per poder calcular el triangle</string>
+    <string name="elsanglessumenmenys">Els angles sumen menys de 180 graus!</string>
+    <string name="totselstriangles">Tots els triangles amb els angles introduïts son múltiples d\'aquest</string>
+    <string name="atencioaquesttriangle">Atenció! Aquest triangle té 2 solucions</string>
+    <string name="soluciodos">Solució 2</string>
+    <string name="aquesttrianglenotesolucio">Aquest triangle no té solució</string>
+    <string name="introdueixelcoeficient">Introdueix el coeficient de x</string>
+    <string name="introdueixpuntdinici">Introdueix un punt d\'inici</string>
+    <string name="noshantrobat">No s\'han trobat solucions, prova un altre punt d\'inici</string>
+    <string name="larreltrobada">L\'arrel trobada és:</string>
+    <string name="eldeterminantdelamatriues">El determinant de la matriu és:</string>
+    <string name="withanumberthisbig">Amb un nombre tan gran MAT anirà lent o es tancarà. Continuar?</string>
+
+</resources>
