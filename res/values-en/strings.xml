@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE configuration>
+<!-- 
+ Copyright (c) 2014 Tomàs Ortega
+ 
+ Licensed under the GPL License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+       http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ -->
+<resources>
+
+    <string name="app_name">MAT</string>
+    <string name="action_settings">Settings</string>
+    <string name="Tipusequacio">The equation is of the type ax²+bx+c=0</string>
+    <string name="atext">a=</string>
+    <string name="btext">b=</string>
+    <string name="ctext">c=</string>
+    <string name="resol">Solve</string>
+    <string name="ed2g">Second Degree Equation</string>
+    <string name="introdueixi_la_dimensi_de_la_matriu">Enter the matrix\'s dimension</string>
+    <string name="ok">OK</string>
+    <string name="determinants">Determinants</string>
+    <string name="introdueixi_el_grau_del_polinomi">Enter the polynomial\'s degree</string>
+    <string name="newton">Roots of Polynomials</string>
+    <string name="a">A</string>
+    <string name="_">α</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="_b">β</string>
+    <string name="_c">γ</string>
+    <string name="buidar_tot">Clear all</string>
+    <string name="triangles">Triangle Solving</string>
+    <string name="estad_stica">Statistics</string>
+    <string name="sistemes">System of Equations</string>
+    <string name="introdueix_la_dimensi_de_la_matriu">Enter the system\'s dimension</string>
+    <string name="introdueix_la_mida_de_la_mostra_de_l_estudi">Enter the size of the sample</string>
+    <string name="introdueix_les_mostres_">Enter the data :</string>
+    <string name="afegeix">Add</string>
+    <string name="elimina">Delete</string>
+    <string name="una_mostra"> a number</string>
+    <string name="idioma"> Language</string>
+    <string name="cancela"> Cancel</string>
+    <string name="nox">No unknowns</string>
+    <string name="norealx">No real solutions</string>
+    <string name="nombrenovalid">Incorrect data</string>
+    <string name="solsis">The system\'s solutions are :</string>
+    <string name="sistemaincompatible">There\'s no unique solution</string>
+    <string name="introdueixmostra">Enter number</string>
+    <string name="mitjanadospunts">Mean :</string>
+    <string name="dtdospunts">Standard deviation :</string>
+    <string name="medianadospunts">Median :</string>
+    <string name="mmdttitol">The mean, the standard deviation and the median are :</string>
+    <string name="uncostatnopotserzero">A side can\'t be 0!</string>
+    <string name="untrianglenopottenir">A triangle can\'t have these three sides</string>
+    <string name="unanglenopotserzero">An angle can\'t be 0!</string>
+    <string name="elsanglessumen">Angles can\'t add more than 180 degrees!</string>
+    <string name="faltainfo">More information needed</string>
+    <string name="elsanglessumenmenys">Angles add less than 180 degrees!</string>
+    <string name="totselstriangles">All triangles with the given angles are multiples of this one</string>
+    <string name="atencioaquesttriangle">Hey! This triangle has 2 solutions</string>
+    <string name="soluciodos">Solution 2</string>
+    <string name="aquesttrianglenotesolucio">This triangle can\'t be solved</string>
+    <string name="introdueixelcoeficient">Enter the coefficient of x</string>
+    <string name="introdueixpuntdinici">Enter a starting point</string>
+    <string name="noshantrobat">No solutions found, try another starting point</string>
+    <string name="larreltrobada">The root that has been found is :</string>
+    <string name="eldeterminantdelamatriues">The matrix\'s determinant is :</string>
+    <string name="withanumberthisbig">With a number this big MAT might slow down or crash. Continue?</string>
+
+</resources>
+
